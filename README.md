@@ -5,9 +5,9 @@ I'm a full-stack web developer 👨‍💻  based in Blacksburg, VA. I have over
 I am currently in my last year studying Computer Science at <a href="https://vt.edu/" target="_blank">Virginia Tech</a>. For more information about me, check out [hassanyakef.com](https://hassanyakef.com).
 
 ### Get in touch
-- Twitter: [twitter.com/hassan_yakef](https://twitter.com/hassan_yakef)
-- Personal site: [hassanyakef.com](https://hassanyakef.com)
-- Linkedin: [linkedin.com/in/hassan-yakefujiang](https://www.linkedin.com/in/hassan-yakefujiang)
+- **Twitter**: [twitter.com/hassan_yakef](https://twitter.com/hassan_yakef)
+- **Personal site**: [hassanyakef.com](https://hassanyakef.com)
+- **Linkedin**: [linkedin.com/in/hassan-yakefujiang](https://www.linkedin.com/in/hassan-yakefujiang)
 <!--
 **hassanyakef/hassanyakef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
