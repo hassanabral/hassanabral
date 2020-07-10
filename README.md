@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hassan. 
 
-I'm a full-stack web developer 👨‍💻  based in Blacksburg, VA. I have over 2 years of experience building single page web applications using **JavaScript**, **React**, and **Redux**. In my free time, I like to go on hiking, play figure-style acoustic guitar, and play DOTA 2.  
+I'm a full-stack web developer 👨‍💻  based in Blacksburg, VA. I have over 2 years of experience building single page web applications using **JavaScript**, **React**, and **Redux**. In my free time, I like to go on hiking :hiking_boot:, play figure-style acoustic guitar :guitar:, and play DOTA 2 :video_game:.  
 
 I am currently in my last year studying Computer Science at <a href="https://vt.edu/" target="_blank">Virginia Tech</a>. For more information about me, check out [hassanyakef.com](https://hassanyakef.com).
 
