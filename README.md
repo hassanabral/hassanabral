@@ -1,6 +1,6 @@
 ## Hi, I'm Hassan Yakef 👋
 
-![./profilePic.jpg](profilePic.jpg)
+![./profilePic.jpg](https://raw.githubusercontent.com/hassanyakef/hassanyakef/master/profilePic.jpg)
 *Me at Cascade Falls Trailhead in Pembroke, VA.*
 
 I'm a full-stack web developer based in Blacksburg, VA. I have over 2 years of experience building single page web applications using **JavaScript**, **React**, and **Redux**. In my free time, I like to go on hiking, play figure-style guitar, and play DOTA 2. I believe in using technologies to make this world a more equal and empathetic place.  
