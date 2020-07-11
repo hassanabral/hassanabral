@@ -4,9 +4,9 @@ I'm a full-stack web developer 👨‍💻  based in Blacksburg, VA. I have over
 
 I am currently in my last year studying Computer Science at <a href="https://vt.edu/" target="_blank">Virginia Tech</a>. For more information about me, check out <a href="https://hassanyakef.com">hassanyakef.com</a>.
 
-### What I've been up to
+### What I've been up to ...
 
-I wrote a blog post about a social networking app that I recently build with Cloud Firestore. Check it out! https://hassanyakef.com/personal-project
+I wrote a blog post about a **social networking app** that I recently build with `Cloud Firestore`. Check it out! https://hassanyakef.com/personal-project
 
 ### Get in touch
 - Twitter: [twitter.com/hassan_yakef](https://twitter.com/hassan_yakef)
