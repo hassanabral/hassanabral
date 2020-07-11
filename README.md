@@ -6,7 +6,7 @@ I am currently in my last year studying Computer Science at <a href="https://vt.
 
 ### Recent Activity
 
-I wrote a blog post about a web app that I deployed recently. Check it out! https://hassanyakef.com/personal-project
+I wrote a blog post about a social networking app that I recently build with Cloud Firestore. Check it out! https://hassanyakef.com/personal-project
 
 ### Get in touch
 - Twitter: [twitter.com/hassan_yakef](https://twitter.com/hassan_yakef)
