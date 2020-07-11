@@ -11,6 +11,7 @@ I wrote a blog post about a **social networking app** that I build with `Cloud F
 ### Get in touch
 - Twitter: [twitter.com/hassan_yakef](https://twitter.com/hassan_yakef)
 - Personal site: [hassanyakef.com](https://hassanyakef.com)
+- Dev.to: [dev.to/hassanyakef](https://dev.to/hassanyakef)
 - Linkedin: [linkedin.com/in/hassan-yakefujiang](https://www.linkedin.com/in/hassan-yakefujiang)
 <!--
 **hassanyakef/hassanyakef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
