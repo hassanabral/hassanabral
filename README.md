@@ -2,19 +2,19 @@
 
 I'm a full-stack web developer 👨‍💻  based in Blacksburg, VA. I have over 2 years of experience building single page web applications using **JavaScript**, **React**, and **Redux**.
 
-I am currently in my last year studying Computer Science at <a href="https://vt.edu/" target="_blank">Virginia Tech</a>. For more information about me, check out <a href="https://hassanyakef.com">hassanyakef.com</a>.
+For more information about me, check out <a href="https://hassanyakef.com">hassanyakef.com</a>.
 
 ### What I've been up to recently
 
 I wrote a blog post about a **social networking app** that I build with `Cloud Firestore`. Check it out! https://hassanyakef.com/personal-project
 
 ### Get in touch
-- Twitter: [twitter.com/hassan_yakef](https://twitter.com/hassan_yakef)
-- Personal site: [hassanyakef.com](https://hassanyakef.com)
+- Twitter: [twitter.com/hassan_abral](https://twitter.com/hassan_abral)
+- Personal site: [hassanabral.com](https://hassanabral.com)
 - Dev.to: [dev.to/hassanyakef](https://dev.to/hassanyakef)
-- Linkedin: [linkedin.com/in/hassan-yakefujiang](https://www.linkedin.com/in/hassan-yakefujiang)
+- Linkedin: [linkedin.com/in/hassan-abral](https://www.linkedin.com/in/hassan-abral)
 <!--
-**hassanyakef/hassanyakef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hassanabral/hassanabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
