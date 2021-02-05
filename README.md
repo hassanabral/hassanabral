@@ -2,11 +2,11 @@
 
 I'm a full-stack web developer 👨‍💻  based in Blacksburg, VA. I have over 2 years of experience building single page web applications using **JavaScript**, **React**, and **Redux**.
 
-For more information about me, check out <a href="https://hassanyakef.com">hassanyakef.com</a>.
+For more information about me, check out <a href="https://hassanabral.com">hassanabral.com</a>.
 
 ### What I've been up to recently
 
-I wrote a blog post about a **social networking app** that I build with `Cloud Firestore`. Check it out! https://hassanyakef.com/personal-project
+I wrote a blog post about a **social networking app** that I built with `Cloud Firestore`. Check it out! https://hassanabral.com/personal-project
 
 ### Get in touch
 - Twitter: [twitter.com/hassan_abral](https://twitter.com/hassan_abral)
