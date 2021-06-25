@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hassan. 
 
-I'm a full-stack web developer 👨‍💻  based in Blacksburg, VA. I have over 2 years of experience building single page web applications using **JavaScript**, **React**, and **Redux**.
+I'm a full-stack web developer 👨‍💻  based in Reston, VA. I have over 2 years of experience building single page web applications using **JavaScript**, **React**, and **Redux**.
 
 For more information about me, check out <a href="https://hassanabral.com">hassanabral.com</a>.
 
