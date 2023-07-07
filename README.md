@@ -7,7 +7,6 @@ I'm a full-stack software engineer 👨‍💻  based in Chicago, IL. I have ove
 
 ### Get in touch
 - Twitter: [twitter.com/hassan_abral](https://twitter.com/hassan_abral)
-- Personal site: [hassanabral.com](https://hassanabral.com)
 - Dev.to: [dev.to/hassanabral](https://dev.to/hassanabral)
 - Linkedin: [linkedin.com/in/hassan-abral](https://www.linkedin.com/in/hassan-abral)
 <!--
