@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hassan. 
 
-I'm a full-stack software engineer 👨‍💻  based in Chicago, IL. I have over 4 years of experience building single-page web applications using **Node.js**, **JavaScript**, **React**, and **Redux**.
+I'm a full-stack software engineer 👨‍💻  based in Chicago, IL. I have over 4 years of experience building single-page web applications using **Node.js**, **JavaScript**, **TypeScript**, **React**, and **Redux**.
 ### What I’m currently learning
 
 - Terraform and Gitlab CI in managing cloud infrastructure.
