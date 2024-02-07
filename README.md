@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hassan. 
 
-I'm a full-stack software engineer 👨‍💻  based in Chicago, IL. I have over 4 years of experience building single-page web applications using **JavaScript/TypeScript**, **Node.js**,**React**, and **Next.js**.
+I'm a full-stack software engineer 👨‍💻  based in Chicago, IL. I have over 4 years of experience building single-page web applications using **JavaScript/TypeScript**, **Node.js**, **React**, and **Next.js**.
 ### What I’m currently learning
 
 - Building AI models with Python.
